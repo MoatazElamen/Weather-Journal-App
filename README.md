@@ -14,4 +14,5 @@ open your terminal and simply type : npm run start
 
 ## How it was useful for me
 understanding Async functions was a bit tricky for me ... now i can use it easly without worries
+
 the fun part of the project is using just vanillajs
